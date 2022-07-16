@@ -2,6 +2,8 @@ package first_lesson;
 
 public class TypeCasting {
     public static void main(String[] args) {
-        System.out.println("hello");
+        int x=10;
+        float f=(float) x;
+        System.out.println(f);
     }
 }
