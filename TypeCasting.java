@@ -15,13 +15,10 @@ public class TypeCasting {
         System.out.println("value of d: "+d);
         System.out.println();
 
-        System.out.println("Eplicit typecasting");
+        System.out.println("Explicit typecasting");
         double m=10.59;
         System.out.println("value of m: "+m);
         int n=(int) m;
         System.out.println("value of n: "+n);
-
-
-
     }
 }
